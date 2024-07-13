@@ -1,4 +1,5 @@
 FIRST COMMIT
-SECOND COMMIT
+SECOND COMMI
 THIRD COMMIT
 ajsdbhbas
+THIRD COMMIT parent of 69ff7d8 (make a bad commit)
